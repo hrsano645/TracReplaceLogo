@@ -12,5 +12,5 @@ install
 git clone https://github.com/hrsano645/TracReplaceLogo.git
 cd TracReplaceLogo
 python setup.py bdist_egg
-# copy your trac project
+# create egg. and copy your trac project
 ```
