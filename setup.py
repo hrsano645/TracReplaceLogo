@@ -10,7 +10,7 @@ setup(
     version='0.1',
     description = 'Replace the project name with Trac logo',
     license = 'BSD',
-    url = 'http://hr-sano.net/blog/',
+    url = 'https://github.com/hrsano645/TracReplaceLogo',
     author = 'hiroshi sano',
     author_email = 'hrs.sano645@gmail.com',
 

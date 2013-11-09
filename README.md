@@ -1,7 +1,16 @@
 TracReplaceLogo
 ===============
 
-description
--------------
+Replace the project name with Trac logo
 
-Trac Logo replace project name
+**this plugin is alpha version. At Your Own Risk**
+
+install
+--------
+
+```
+git clone https://github.com/hrsano645/TracReplaceLogo.git
+cd TracReplaceLogo
+python setup.py bdist_egg
+# copy your trac project
+```
