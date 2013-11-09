@@ -2,9 +2,11 @@ TracReplaceLogo
 ===============
 
 TracのヘッダロゴをTracのプロジェクト名に変更します。
+
 Replace the project name with Trac header logo
 
 **このプラグインはアルファバージョンです。自己責任でお願いします**
+
 **this plugin is alpha version. At Your Own Risk**
 
 Plugin image
