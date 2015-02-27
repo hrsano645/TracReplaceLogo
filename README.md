@@ -32,6 +32,7 @@ git clone https://github.com/hrsano645/TracReplaceLogo.git
 cd TracReplaceLogo
 python setup.py bdist_egg
 # create egg. and copy your trac project
+# Restart Trac daemon or web server (tracd, Apache, etc)
 ```
 
 See Also

@@ -1,0 +1,5 @@
+ReplaceLogo.egg-info
+*.pyc
+*.pyc
+build
+dist
